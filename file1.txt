@@ -1,3 +1,5 @@
 file content
 
 changed something
+
+changed in branch2

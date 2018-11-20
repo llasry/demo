@@ -1,1 +1,3 @@
 file2 content
+
+changed in branch2
